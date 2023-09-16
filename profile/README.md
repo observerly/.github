@@ -1,4 +1,4 @@
-[![observerly Banner](./github-readme-banner.png)](https://observerly.com)
+[![observerly Banner](https://github.com/observerly/.github/blob/main/profile/github-readme-banner.png?raw=true)](https://observerly.com)
 
 🔭 observerly is a first-in-class remote observational platform built for the web, built for amateur astronomers, and built for you.
 
